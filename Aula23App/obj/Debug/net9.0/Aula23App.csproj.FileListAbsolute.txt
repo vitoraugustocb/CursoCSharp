@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\Aula23App\bin\Debug\net9.0\Aula23App.exe
+C:\dev\CursoC#\CursoCSharp\Aula23App\bin\Debug\net9.0\Aula23App.deps.json
+C:\dev\CursoC#\CursoCSharp\Aula23App\bin\Debug\net9.0\Aula23App.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\Aula23App\bin\Debug\net9.0\Aula23App.dll
+C:\dev\CursoC#\CursoCSharp\Aula23App\bin\Debug\net9.0\Aula23App.pdb
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.dll
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\refint\Aula23App.dll
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.pdb
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\Aula23App.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\Aula23App\obj\Debug\net9.0\ref\Aula23App.dll

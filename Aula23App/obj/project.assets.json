@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CursoC#\\CursoCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\dev\\CursoC#\\CursoCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\dev\\CursoC#\\CursoCSharp\\Aula23App\\Aula23App.csproj",
+      "projectName": "Aula23App",
+      "projectPath": "C:\\dev\\CursoC#\\CursoCSharp\\Aula23App\\Aula23App.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\CursoC#\\CursoCSharp\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\dev\\CursoC#\\CursoCSharp\\Aula23App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

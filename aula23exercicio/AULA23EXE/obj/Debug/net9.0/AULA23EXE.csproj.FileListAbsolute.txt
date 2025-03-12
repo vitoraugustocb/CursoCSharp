@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\bin\Debug\net9.0\AULA23EXE.exe
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\bin\Debug\net9.0\AULA23EXE.deps.json
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\bin\Debug\net9.0\AULA23EXE.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\bin\Debug\net9.0\AULA23EXE.dll
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\bin\Debug\net9.0\AULA23EXE.pdb
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.dll
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\refint\AULA23EXE.dll
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.pdb
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\AULA23EXE.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\aula23exercicio\AULA23EXE\obj\Debug\net9.0\ref\AULA23EXE.dll

@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\bin\Debug\net9.0\teste.exe
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\bin\Debug\net9.0\teste.deps.json
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\bin\Debug\net9.0\teste.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\bin\Debug\net9.0\teste.dll
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\bin\Debug\net9.0\teste.pdb
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.dll
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\refint\teste.dll
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.pdb
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\teste.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\aula24\teste\teste\obj\Debug\net9.0\ref\teste.dll

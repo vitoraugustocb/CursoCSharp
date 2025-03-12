@@ -15,6 +15,6 @@ double pi = 3.14159, raio, area;
 Console.WriteLine("Digite o valor do raio: ");
 raio = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
-area = pi * (raio * 2);
+area = pi * raio * raio;
 
-System.Console.WriteLine("O valor da area é de: " + area.ToString("F4"));
+System.Console.WriteLine("O valor da area é de: " + area.ToString("F4", CultureInfo.InvariantCulture));

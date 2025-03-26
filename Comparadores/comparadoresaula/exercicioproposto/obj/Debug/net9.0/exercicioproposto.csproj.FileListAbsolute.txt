@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\bin\Debug\net9.0\exercicioproposto.exe
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\bin\Debug\net9.0\exercicioproposto.deps.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\bin\Debug\net9.0\exercicioproposto.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\bin\Debug\net9.0\exercicioproposto.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\bin\Debug\net9.0\exercicioproposto.pdb
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\refint\exercicioproposto.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.pdb
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\exercicioproposto.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exercicioproposto\obj\Debug\net9.0\ref\exercicioproposto.dll

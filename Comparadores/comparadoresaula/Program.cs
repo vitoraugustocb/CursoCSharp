@@ -5,14 +5,14 @@
 //System.Console.WriteLine(c2);
 // precedência do && maior que a precedência de ||
 
-System.Console.WriteLine("Digite um numero inteiro: ");
-int x = int.Parse(Console.ReadLine());
+System.Console.WriteLine("Que horas são?");
+int hora = int.Parse(Console.ReadLine());
 
-if (x % 2 == 0)
-    {
-        System.Console.WriteLine("O seu numero é par!");
-
-    }
-else {
-    System.Console.WriteLine("Esse numero é impar!");
+if (hora <= 12){
+    System.Console.WriteLine("Bom dia!");
 }
+else if (hora > 12 && hora < 18){
+    System.Console.WriteLine("Boa tarde!");
+}
+else 
+System.Console.WriteLine("Boa noite!");

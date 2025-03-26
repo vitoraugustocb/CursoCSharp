@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("comparadoresaula")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36523855158b655b84e68c0165de677609f6728b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaeb600feab8647c2d7148d0fe8b86773b3d7490")]
 [assembly: System.Reflection.AssemblyProductAttribute("comparadoresaula")]
 [assembly: System.Reflection.AssemblyTitleAttribute("comparadoresaula")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

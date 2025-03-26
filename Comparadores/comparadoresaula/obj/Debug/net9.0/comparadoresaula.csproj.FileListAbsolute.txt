@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\bin\Debug\net9.0\comparadoresaula.exe
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\bin\Debug\net9.0\comparadoresaula.deps.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\bin\Debug\net9.0\comparadoresaula.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\bin\Debug\net9.0\comparadoresaula.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\bin\Debug\net9.0\comparadoresaula.pdb
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\refint\comparadoresaula.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.pdb
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\comparadoresaula.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\obj\Debug\net9.0\ref\comparadoresaula.dll

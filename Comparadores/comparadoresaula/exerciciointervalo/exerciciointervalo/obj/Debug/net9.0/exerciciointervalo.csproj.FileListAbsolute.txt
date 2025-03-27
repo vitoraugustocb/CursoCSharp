@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\bin\Debug\net9.0\exerciciointervalo.exe
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\bin\Debug\net9.0\exerciciointervalo.deps.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\bin\Debug\net9.0\exerciciointervalo.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\bin\Debug\net9.0\exerciciointervalo.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\bin\Debug\net9.0\exerciciointervalo.pdb
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\refint\exerciciointervalo.dll
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.pdb
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\exerciciointervalo.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\Comparadores\comparadoresaula\exerciciointervalo\exerciciointervalo\obj\Debug\net9.0\ref\exerciciointervalo.dll

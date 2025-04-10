@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\bin\Debug\net9.0\exercicioquadrantes.exe
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\bin\Debug\net9.0\exercicioquadrantes.deps.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\bin\Debug\net9.0\exercicioquadrantes.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\bin\Debug\net9.0\exercicioquadrantes.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\bin\Debug\net9.0\exercicioquadrantes.pdb
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\refint\exercicioquadrantes.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.pdb
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\exercicioquadrantes.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\exercicioquadrantes\exercicioquadrantes\obj\Debug\net9.0\ref\exercicioquadrantes.dll

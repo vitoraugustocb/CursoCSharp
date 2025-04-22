@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\bin\Debug\net9.0\estudowhile.exe
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\bin\Debug\net9.0\estudowhile.deps.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\bin\Debug\net9.0\estudowhile.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\bin\Debug\net9.0\estudowhile.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\bin\Debug\net9.0\estudowhile.pdb
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\refint\estudowhile.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.pdb
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\estudowhile.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp1\estudowhile\estudowhile\obj\Debug\net9.0\ref\estudowhile.dll

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicioquadrantes", "exercicioquadrantes\exercicioquadrantes.csproj", "{0FF3B644-95AD-407A-99BD-F7DEAC5B830D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estudowhile", "..\..\estudowhile\estudowhile.csproj", "{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{0FF3B644-95AD-407A-99BD-F7DEAC5B830D}.Release|x64.Build.0 = Release|Any CPU
 		{0FF3B644-95AD-407A-99BD-F7DEAC5B830D}.Release|x86.ActiveCfg = Release|Any CPU
 		{0FF3B644-95AD-407A-99BD-F7DEAC5B830D}.Release|x86.Build.0 = Release|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Debug|x64.Build.0 = Debug|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Debug|x86.Build.0 = Debug|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Release|x64.ActiveCfg = Release|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Release|x64.Build.0 = Release|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Release|x86.ActiveCfg = Release|Any CPU
+		{164E1CF0-3B3E-4311-A8CB-82D09C2538AD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

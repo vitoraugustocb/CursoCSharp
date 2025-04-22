@@ -1,5 +1,5 @@
-﻿string[] valores = Console.ReadLine().Split(' ');
-
+﻿
+string[] valores = Console.ReadLine().Split(' ');
 int horaInicial = int.Parse(valores[0]);
 int horaFinal = int.Parse (valores[1]);
 

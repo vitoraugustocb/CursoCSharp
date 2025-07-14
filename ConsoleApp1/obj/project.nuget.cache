@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mTB3xr3hz9k=",
+  "dgSpecHash": "5ZVobORRT3w=",
   "success": true,
-  "projectFilePath": "C:\\dev\\CursoC#\\CursoCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\dev\\CursoCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.205\\microsoft.net.sdk.compilers.toolset.9.0.205.nupkg.sha512"
+  ],
   "logs": []
 }

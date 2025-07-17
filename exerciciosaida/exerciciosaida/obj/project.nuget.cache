@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJWYm93PwMU=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\CursoC#\\CursoCSharp\\exerciciosaida\\exerciciosaida\\exerciciosaida.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.205\\microsoft.net.sdk.compilers.toolset.9.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}

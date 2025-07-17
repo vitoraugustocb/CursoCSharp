@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\bin\Debug\net9.0\exerciciosaida.exe
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\bin\Debug\net9.0\exerciciosaida.deps.json
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\bin\Debug\net9.0\exerciciosaida.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\bin\Debug\net9.0\exerciciosaida.dll
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\bin\Debug\net9.0\exerciciosaida.pdb
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.dll
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\refint\exerciciosaida.dll
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.pdb
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\exerciciosaida.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\exerciciosaida\exerciciosaida\obj\Debug\net9.0\ref\exerciciosaida.dll

@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.exe
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.deps.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\bin\Debug\net9.0\ConsoleApp6.pdb
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\refint\ConsoleApp6.dll
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.pdb
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ConsoleApp6.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\ConsoleApp6\ConsoleApp6\obj\Debug\net9.0\ref\ConsoleApp6.dll

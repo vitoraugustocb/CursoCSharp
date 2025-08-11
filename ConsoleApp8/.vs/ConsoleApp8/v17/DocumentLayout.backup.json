@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{77B36B42-1B55-41FF-A0BD-E87332D38CD7}|ConsoleApp8\\ConsoleApp8.csproj|c:\\dev\\cursoc#\\cursocsharp\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77B36B42-1B55-41FF-A0BD-E87332D38CD7}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B36B42-1B55-41FF-A0BD-E87332D38CD7}|ConsoleApp8\\ConsoleApp8.csproj|c:\\dev\\cursoc#\\cursocsharp\\consoleapp8\\consoleapp8\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B36B42-1B55-41FF-A0BD-E87332D38CD7}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +21,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\dev\\CursoC#\\CursoCSharp\\ConsoleApp8\\ConsoleApp8\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Triangulo.cs",
+              "ToolTip": "C:\\dev\\CursoC#\\CursoCSharp\\ConsoleApp8\\ConsoleApp8\\Triangulo.cs*",
+              "RelativeToolTip": "ConsoleApp8\\Triangulo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:43:09.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,10 +41,14 @@
               "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
               "ToolTip": "C:\\dev\\CursoC#\\CursoCSharp\\ConsoleApp8\\ConsoleApp8\\Program.cs*",
               "RelativeToolTip": "ConsoleApp8\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T15:55:35.745Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

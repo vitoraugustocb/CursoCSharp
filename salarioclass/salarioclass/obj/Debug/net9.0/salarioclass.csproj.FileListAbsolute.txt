@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\bin\Debug\net9.0\salarioclass.exe
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\bin\Debug\net9.0\salarioclass.deps.json
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\bin\Debug\net9.0\salarioclass.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\bin\Debug\net9.0\salarioclass.dll
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\bin\Debug\net9.0\salarioclass.pdb
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.dll
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\refint\salarioclass.dll
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.pdb
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\salarioclass.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\salarioclass\salarioclass\obj\Debug\net9.0\ref\salarioclass.dll

@@ -1,0 +1,15 @@
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\bin\Debug\net9.0\exerciciopessoa.exe
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\bin\Debug\net9.0\exerciciopessoa.deps.json
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\bin\Debug\net9.0\exerciciopessoa.runtimeconfig.json
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\bin\Debug\net9.0\exerciciopessoa.dll
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\bin\Debug\net9.0\exerciciopessoa.pdb
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.AssemblyInfoInputs.cache
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.AssemblyInfo.cs
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.csproj.CoreCompileInputs.cache
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.sourcelink.json
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.dll
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\refint\exerciciopessoa.dll
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.pdb
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\exerciciopessoa.genruntimeconfig.cache
+C:\dev\CursoC#\CursoCSharp\exerciciopessoa\exerciciopessoa\obj\Debug\net9.0\ref\exerciciopessoa.dll
